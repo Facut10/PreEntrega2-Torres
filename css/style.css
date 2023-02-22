@@ -33,13 +33,12 @@ footer {
 .text-decoration-none {
   color: white;
 }
-/* contacto */
+
+/* contacto*/
+
 .img-ayuda__tamaño {
   height: 450px;
   width: 1000px;
-}
-.input__tamaño {
-  width: 100px;
 }
 
 /* referentes */
